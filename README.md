@@ -1,4 +1,4 @@
-# Modern Magazine Website
+# Modern Magazine Website (fontend only)
 
 ## Description
 
