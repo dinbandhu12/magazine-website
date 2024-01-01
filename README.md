@@ -7,6 +7,7 @@ This is a modern magazine website built with HTML and CSS only. It is a great we
 Only front-end ther is no back-end.
 
 Just for design inspiration.
+(All the images creadit goes to right owner)
 
 ### Download the code and run in your browser.
 
@@ -20,4 +21,4 @@ Just for design inspiration.
 
 ![screenshot](./imgs/output%20img.png)
 
-
+### Download the pdf desing here➡️  [pdf desing](./imgs/magazine%20website%20design%20inspiration.pdf)
