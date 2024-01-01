@@ -8,7 +8,16 @@ Only front-end ther is no back-end.
 
 Just for design inspiration.
 
+### Download the code and run in your browser.
+
 ## Built With
 
 - HTML
 - CSS
+
+
+## Result 
+
+![screenshot](./imgs/output%20img.png)
+
+
