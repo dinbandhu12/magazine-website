@@ -20,7 +20,7 @@ Just for design inspiration.
 
 -- It is not responsive I repeat it is not responsive 
 
-![visit here](https://magazine-website-demo.netlify.app/)
+[visit here](https://magazine-website-demo.netlify.app/)
 
 ## Result 
 
