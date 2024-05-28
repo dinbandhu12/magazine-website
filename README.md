@@ -16,6 +16,11 @@ Just for design inspiration.
 - HTML
 - CSS
 
+## Live link
+
+-- It is not responsive I repeat it is not responsive 
+
+![visit here](https://magazine-website-demo.netlify.app/)
 
 ## Result 
 
